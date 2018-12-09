@@ -73,7 +73,7 @@ python -m pytest -q main.py
 ```
 (Важно) Имя теста должно начинаться с test_* для поиска пакетов
 
-Ввод в консоли: 
+Ввод и вывод в консоли: 
 
 ![Тесты скрин](https://github.com/python-advance/sem5-exceptions-Bolzuka/blob/master/CP/тесты_скрин.png "Тесты скрин")
 
